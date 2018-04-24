@@ -1,0 +1,16 @@
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing.FactoryUtilities\bin\Debug\Ingenious.Licensing.FactoryUtilities.exe
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing.FactoryUtilities\bin\Debug\Ingenious.Licensing.FactoryUtilities.pdb
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.Form1.resources
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.Properties.Resources.resources
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.csproj.GenerateResource.Cache
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.exe
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.pdb
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\bin\Debug\Ingenious.Licensing.FactoryUtilities.exe
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\bin\Debug\Ingenious.Licensing.FactoryUtilities.pdb
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.csprojResolveAssemblyReference.cache
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.Form1.resources
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.Properties.Resources.resources
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.csproj.GenerateResource.cache
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.csproj.CoreCompileInputs.cache
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.exe
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing.FactoryUtilities\obj\x86\Debug\Ingenious.Licensing.FactoryUtilities.pdb

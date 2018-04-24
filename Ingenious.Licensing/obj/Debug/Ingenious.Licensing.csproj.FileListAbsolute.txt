@@ -1,0 +1,10 @@
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing\bin\Debug\Ingenious.Licensing.dll
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing\bin\Debug\Ingenious.Licensing.pdb
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing\obj\Debug\Ingenious.Licensing.dll
+C:\IngeniousLLC\CodeProject\Licensing\Ingenious.Licensing\obj\Debug\Ingenious.Licensing.pdb
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing\bin\Debug\Ingenious.Licensing.dll
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing\bin\Debug\Ingenious.Licensing.pdb
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing\obj\Debug\Ingenious.Licensing.csprojResolveAssemblyReference.cache
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing\obj\Debug\Ingenious.Licensing.csproj.CoreCompileInputs.cache
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing\obj\Debug\Ingenious.Licensing.dll
+C:\Users\zkaya\Downloads\ComponentLicensing\Licensing\Ingenious.Licensing\obj\Debug\Ingenious.Licensing.pdb
